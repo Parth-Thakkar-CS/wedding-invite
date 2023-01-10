@@ -1139,7 +1139,7 @@ body .form-check-input:focus {
     width: 378px;
     bottom: -40px;
     right: -85px;
-    background-image: url(../images/about/about-right-leaf.svg);
+    background-image: url(../images/about-right-leaf.svg);
     z-index: 9;
 }
 
@@ -1187,7 +1187,7 @@ body .form-check-input:focus {
 .about-progress::before {
     content: "";
     position: absolute;
-    background-image: url(../images/about/about-main-left-leaf.svg);
+    background-image: url(../images/about-main-left-leaf.svg);
     width: 324px;
     height: 328px;
     top: -45px;
@@ -1298,7 +1298,7 @@ body .form-check-input:focus {
 .about-couple::before {
     content: "";
     position: absolute;
-    background-image: url(../images/about/about-couple-shape.png);
+    background-image: url(../images/about-couple-shape.png);
     background-repeat: no-repeat;
     width: 354px;
     height: 300px;
@@ -1355,7 +1355,7 @@ body .form-check-input:focus {
 .about-couple .couple-left h5::before {
     content: "";
     position: absolute;
-    background-image: url(../images/about/ac-small-leaf-left.png);
+    background-image: url(../images/ac-small-leaf-left.png);
     background-repeat: no-repeat;
     width: 54px;
     height: 28px;
@@ -1385,7 +1385,7 @@ body .form-check-input:focus {
 .about-couple .couple-right h5::before {
     content: "";
     position: absolute;
-    background-image: url(../images/about/ac-small-leaf-right.png);
+    background-image: url(../images/ac-small-leaf-right.png);
     background-repeat: no-repeat;
     width: 54px;
     height: 28px;
@@ -1519,7 +1519,7 @@ body .form-check-input:focus {
 .our-moments-wrapper::before {
     content: "";
     position: absolute;
-    background-image: url(../images/about/about-moments-leaf-left.png);
+    background-image: url(../images/about-moments-leaf-left.png);
     height: 595px;
     width: 593px;
     z-index: -1;
@@ -1530,7 +1530,7 @@ body .form-check-input:focus {
 .our-moments-wrapper::after {
     content: "";
     position: absolute;
-    background-image: url(../images/about/about-moments-leaf-right.png);
+    background-image: url(../images/about-moments-leaf-right.png);
     height: 693px;
     width: 692px;
     z-index: -1;
