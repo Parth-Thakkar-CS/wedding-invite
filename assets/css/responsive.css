@@ -2299,13 +2299,13 @@
             }
 
             .about-couple .couple-left h4::before {
-                background-image: url(../images/about/ac-small-leaf-right.png);
+                background-image: url(../images/ac-small-leaf-right.png);
                 right: 185px;
                 left: unset;
             }
 
             .about-couple .couple-right h4::before {
-                background-image: url(../images/about/ac-small-leaf-left.png);
+                background-image: url(../images/ac-small-leaf-left.png);
                 left: 175px;
                 right: unset;
             }
@@ -2765,7 +2765,7 @@
             /* ------------------------- footer css ends ------------------------- */
             /* ------------------------- about page starts ------------------------- */
             .about-couple .couple-left h4::before {
-                background-image: url(../images/about/ac-small-leaf-right.png);
+                background-image: url(../images/ac-small-leaf-right.png);
                 right: 140px;
                 left: unset;
             }
@@ -2812,7 +2812,7 @@
             }
 
             .about-couple .couple-right h4::before {
-                background-image: url(../images/about/ac-small-leaf-left.png);
+                background-image: url(../images/ac-small-leaf-left.png);
                 left: 130px;
                 right: unset;
             }
@@ -3954,13 +3954,13 @@
     }
 
     .about-couple .couple-left h4::before {
-        background-image: url(../images/about/ac-small-leaf-right.png);
+        background-image: url(../images/ac-small-leaf-right.png);
         right: 185px;
         left: unset;
     }
 
     .about-couple .couple-right h4::before {
-        background-image: url(../images/about/ac-small-leaf-left.png);
+        background-image: url(../images/ac-small-leaf-left.png);
         left: 175px;
         right: unset;
     }
@@ -4421,7 +4421,7 @@
     /* ------------------------- footer css ends ------------------------- */
     /* ------------------------- about page starts ------------------------- */
     .about-couple .couple-left h4::before {
-        background-image: url(../images/about/ac-small-leaf-right.png);
+        background-image: url(../images/ac-small-leaf-right.png);
         right: 140px;
         left: unset;
     }
@@ -4468,7 +4468,7 @@
     }
 
     .about-couple .couple-right h4::before {
-        background-image: url(../images/about/ac-small-leaf-left.png);
+        background-image: url(../images/ac-small-leaf-left.png);
         left: 130px;
         right: unset;
     }
