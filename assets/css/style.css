@@ -1350,6 +1350,7 @@ body .form-check-input:focus {
     transform: translateX(-50%);
     height: auto;
     z-index: 1;
+    margin-top: 5%;
 }
 
 .about-couple .couple-left h5::before {
